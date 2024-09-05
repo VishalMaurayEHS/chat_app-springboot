@@ -1,11 +1,8 @@
-package in.tusharprabhu.chatapp;
-
+package com.furqanullahkhan.notification;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * The main class for the Chat App application.
- */
+
 @SpringBootApplication
 public class ChatAppApplication {
 
